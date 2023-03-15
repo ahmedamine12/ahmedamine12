@@ -11,5 +11,8 @@
 
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ahmedamine12&show_icons=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ahmedamine12&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedamine12&langs_count=5&theme=tokyonight)]()
+
+
 
