@@ -1,14 +1,11 @@
--👋 Hi, I’m  Ahmed Amine Bouricha
+👋 Hi, I’m Ahmed Amine Bouricha
 
--🤓I’m interested in softwares
+💻 Full-stack software engineer, passionate about clean, efficient systems
 
--🌱 I’m currently learning Spring Boot and React
+🤖 Enthusiastic about AI technologies and their real-world impact
 
--💞 I’m looking to collaborate on opensource projects
+🎤 Available for tech talks, knowledge sharing, and discussions
 
--📫 How to reach me : bourichaamine0@gmail.com
+💞 Open to open-source collaborations
 
-
-
-
-
+📫 Contact: bourichaamine0@gmail.com
